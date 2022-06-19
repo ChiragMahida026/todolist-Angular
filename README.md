@@ -1,6 +1,6 @@
-Todo List app which can add, delete and check off todo items. 
+Todo List app which can add, delete and check off todo items.
 
-# Todolist
+# Todolist-Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
